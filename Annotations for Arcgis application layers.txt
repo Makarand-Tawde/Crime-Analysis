@@ -1,0 +1,19 @@
+actual_street : Streets that police need to patrol with respect to shops and commercial crimes
+
+
+shopie : shops that are risky which consists hotspots and their neighbours
+
+Incidents_w_counts : Polygon plotting including all hotspots and coldspots
+
+Detailed_police : Police stations in baltimore
+
+Neighbr_SpatialJoin : All details of crime along with polygon details(Input_FID)
+
+tl_2018_24510_roads_Intersec : Roads attached to Polygon details.
+
+Neighbr: Crime distance with respect to police stations
+
+Baltimore_City_Food_Stores_2016: All shops acc to baltimore government
+
+Maryland Baltimore_City_Neighborhoods : Shape file of all neighbourhoods
+
